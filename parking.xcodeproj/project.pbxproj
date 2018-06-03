@@ -13,6 +13,7 @@
 		DD4353F22062B19E00160DC6 /* PKRealTimeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD4353F12062B19E00160DC6 /* PKRealTimeViewController.swift */; };
 		DD538D082063470800F57408 /* NetworkTool.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD538D072063470800F57408 /* NetworkTool.swift */; };
 		DD538D0C20634B5F00F57408 /* RealTimeParkingInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD538D0B20634B5F00F57408 /* RealTimeParkingInfo.swift */; };
+		DD55D60320C49FDF0085733D /* PKTestView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD55D60220C49FDF0085733D /* PKTestView.swift */; };
 		DD575B00209A22A5001A51FB /* AAHighchartsLib.js in Resources */ = {isa = PBXBuildFile; fileRef = DD575AF5209A22A5001A51FB /* AAHighchartsLib.js */; };
 		DD575B01209A22A5001A51FB /* AAHighchartsMore.js in Resources */ = {isa = PBXBuildFile; fileRef = DD575AF6209A22A5001A51FB /* AAHighchartsMore.js */; };
 		DD575B02209A22A5001A51FB /* AAOptionsConstructor.js in Resources */ = {isa = PBXBuildFile; fileRef = DD575AF7209A22A5001A51FB /* AAOptionsConstructor.js */; };
@@ -38,6 +39,7 @@
 		DD4353F12062B19E00160DC6 /* PKRealTimeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PKRealTimeViewController.swift; sourceTree = "<group>"; };
 		DD538D072063470800F57408 /* NetworkTool.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkTool.swift; sourceTree = "<group>"; };
 		DD538D0B20634B5F00F57408 /* RealTimeParkingInfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RealTimeParkingInfo.swift; sourceTree = "<group>"; };
+		DD55D60220C49FDF0085733D /* PKTestView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PKTestView.swift; sourceTree = "<group>"; };
 		DD575AF5209A22A5001A51FB /* AAHighchartsLib.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = AAHighchartsLib.js; sourceTree = "<group>"; };
 		DD575AF6209A22A5001A51FB /* AAHighchartsMore.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = AAHighchartsMore.js; sourceTree = "<group>"; };
 		DD575AF7209A22A5001A51FB /* AAOptionsConstructor.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = AAOptionsConstructor.js; sourceTree = "<group>"; };
@@ -125,6 +127,7 @@
 		DD4353ED2062AA6300160DC6 /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				DD55D60220C49FDF0085733D /* PKTestView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -359,6 +362,7 @@
 				DD4353F22062B19E00160DC6 /* PKRealTimeViewController.swift in Sources */,
 				DD680EBC207EEE0F00EFB714 /* PKBayDetailViewController.swift in Sources */,
 				DD538D0C20634B5F00F57408 /* RealTimeParkingInfo.swift in Sources */,
+				DD55D60320C49FDF0085733D /* PKTestView.swift in Sources */,
 				DD575B09209A22A5001A51FB /* AASeriesElement.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
